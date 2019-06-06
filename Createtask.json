@@ -1,0 +1,26 @@
+{
+  "done": true,
+  "in_progress": true,
+  "content": "string",
+  "due_at": "2019-06-06T15:29:29Z",
+  "user": {
+    "first_name": "string",
+    "last_name": "string",
+    "status": "string",
+    "description": "string",
+    "private": true,
+    "twitter_handle": "string",
+    "instagram_handle": "string",
+    "product_hunt_handle": "string",
+    "github_handle": "string",
+    "telegram_handle": "string",
+    "bmc_handle": "string",
+    "shipstreams_handle": "string",
+    "website": "http://example.com",
+    "digest": true,
+    "accent": "string",
+    "dark_mode": true,
+    "weekends_off": off,
+    "hardcore_mode":false
+  }
+}
